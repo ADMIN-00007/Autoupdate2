@@ -50,7 +50,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(button1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Btc DashBoard";
             ResumeLayout(false);
         }
 
