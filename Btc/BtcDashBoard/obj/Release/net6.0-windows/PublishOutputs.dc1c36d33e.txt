@@ -1,0 +1,5 @@
+C:\Autoupdate2\Btc\BtcDashBoard\bin\Release\net6.0-windows\app.publish\BtcDashBoard.exe
+C:\Autoupdate2\Btc\BtcDashBoard\bin\Release\net6.0-windows\app.publish\BtcDashBoard.dll
+C:\Autoupdate2\Btc\BtcDashBoard\bin\Release\net6.0-windows\app.publish\BtcDashBoard.deps.json
+C:\Autoupdate2\Btc\BtcDashBoard\bin\Release\net6.0-windows\app.publish\BtcDashBoard.runtimeconfig.json
+C:\Autoupdate2\Btc\BtcDashBoard\bin\Release\net6.0-windows\app.publish\BtcDashBoard.pdb
